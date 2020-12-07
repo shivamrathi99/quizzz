@@ -1,0 +1,139 @@
+{
+  "quiz": [
+    {
+      "questionText": "Everything in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 1 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 2 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 3 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 4 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 5 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 6 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "Everything 7 in react is a ",
+      "answerOptions": [
+        { "answerText": "Module", "isCorrect": false },
+        { "answerText": "Component", "isCorrect": true },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 1 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 2 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 3 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 4 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 5 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 6 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    },
+    {
+      "questionText": "In which directory 7 React components are saved?",
+      "answerOptions": [
+        { "answerText": "js/components", "isCorrect": true },
+        { "answerText": "vendor/Component", "isCorrect": false },
+        { "answerText": "Package", "isCorrect": false },
+        { "answerText": "Class", "isCorrect": false }
+      ]
+    }
+  ]
+}
